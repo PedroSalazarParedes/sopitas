@@ -1,5 +1,7 @@
 # Sopitas
 
+Les recomiendo revisar los temas de accesibilidad y cambiar los contrastes pues en este momento su página es muy difícil de usar para las personas con algún tipo de problema visual.
+
 Web application "Sopitas", it is a MERN application (MongoDB, Express, React, NodeJS). In this application the idea is to have a little ecommerce to buy some products with a supscription plan.
 
 ![sopitasScrennShot](https://raw.githubusercontent.com/cabeltran10/sopitas/master/front/src/img/Sopitas.gif)
